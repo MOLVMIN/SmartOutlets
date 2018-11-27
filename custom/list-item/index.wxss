@@ -2,7 +2,7 @@
 .m-item-container {
   margin: 10px;
   border: 1rpx solid #A5A5A5;
-  border-radius: 20rpx;
+  border-radius: 10rpx;
   background: #FFFFFF;
   padding: 10px;
 }
