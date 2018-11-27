@@ -1,0 +1,4 @@
+<!--pages/activeList/activeList.wxml-->
+<m-item title="卡片标题" thumb="https://i.loli.net/2017/08/21/599a521472424.jpg" date="活动有效期：2018-10-1 至 2018-12-12">
+
+</m-item>

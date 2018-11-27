@@ -1,0 +1,10 @@
+<!--custom/list-item/index.wxml-->
+<view class='m-class m-item-container'>
+      <view class="m-class m-item-content">
+          <image class="m-class m-item-thumb" src="{{ thumb }}" mode="aspectFit" wx:if="{{ thumb }}" />
+          <view class='m-class m-item-text'>
+            <view class='m-class m-item-title' wx:if="{{ title }}">{{ title }}</view>
+            <view class='m-class m-item-date' wx:if="{{ date }}">{{ date }}</view>
+          </view>
+      </view>
+</view>

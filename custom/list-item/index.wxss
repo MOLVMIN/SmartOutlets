@@ -1,0 +1,19 @@
+/* custom/list-item/index.wxss */
+.m-item-container {
+  margin: 10px;
+  border: 1rpx solid #A5A5A5;
+  border-radius: 20rpx;
+  background: #FFFFFF;
+  padding: 10px;
+}
+.m-item-content {
+  display: flex;
+}
+.m-item-thumb {
+  width:64px;
+  height:64px
+}
+.m-item-date {
+  font-size: 24rpx;
+  margin: 5rpx;
+}
